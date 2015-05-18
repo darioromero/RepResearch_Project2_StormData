@@ -9,7 +9,7 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 
 The data for this assignment come in the form of a comma-separated-value file compressed via the bzip2 algorithm to reduce its size. You can download the file from the course web site:
 
-- [https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2]Storm Data [47Mb]
+- [https://d396qusza40orc.cloudfront.net/repdata/data/StormData.csv.bz2] Storm Data [47Mb]
 
 There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 
